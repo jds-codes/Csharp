@@ -5,6 +5,6 @@ class Program
     {
         Console.WriteLine("My name is Surjyo");
         Console.WriteLine("I am a software engineer");
-        Console.WriteLine("I  am a student of AIUB");
+        Console.WriteLine("I am a student of AIUB and I am a part-time coder");
     }
 }
